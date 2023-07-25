@@ -1,4 +1,7 @@
-# testrepo
-## Repo has included snake_game,created via phyton. 
+## TestRepo
+### Repo has included snake_game,created via phyton. 
 
-<img src="https://i.dailymail.co.uk/1s/2022/07/15/13/60307877-11017471-image-m-59_1657889786824.jpg">
+[Main Game](https://github.com/serdarugi/testrespo/blob/main/main.py)
+[Foods For Snake](https://github.com/serdarugi/testrespo/blob/main/food.py)
+[Creating Snake](https://github.com/serdarugi/testrespo/blob/main/snake.py)
+[Score Table](https://github.com/serdarugi/testrespo/blob/main/score_table.py)
